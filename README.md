@@ -1,4 +1,4 @@
-#ReactNative 调用原生UI组件
+# ReactNative 调用原生UI组件
 
 fork  Form   https://github.com/zhangxiaoshan618/ReactNative_MyViewController
 十分感谢!!!
